@@ -1,3 +1,3 @@
 <?php
-  cho'hola mundo';
- ?>
+echo'nuevo texto';
+?>
